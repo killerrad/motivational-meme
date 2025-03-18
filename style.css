@@ -1,0 +1,27 @@
+
+
+h1 {
+  font-family: "Caveat", cursive;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#paragraph {
+  color: white;
+  text-align: center;
+}
+
+html {
+  background-color: black;
+}
+
+#image {
+  border: 5px solid white;
+}
+
+div {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
